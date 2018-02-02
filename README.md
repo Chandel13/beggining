@@ -1,2 +1,2 @@
-# beggining
+# begginning
 Just another repository
